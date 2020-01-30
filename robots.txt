@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sighiyahsi.nixcon2017.org/sitemap.xml
